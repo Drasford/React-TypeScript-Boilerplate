@@ -41,7 +41,7 @@ module.exports = ({ mode } = { mode: "production" }) => {
         ],
       },
       plugins: [
-        new HtmlWebpackPlugin({ template: "./src/index.html" }),
+        new HtmlWebpackPlugin({ template: "./public/index.html" }),
         new MiniCssExtractPlugin(),
       ],
     },
