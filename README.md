@@ -1,4 +1,4 @@
-Bare minimum react-typescript boilerplate. 
+## Bare minimum react-typescript boilerplate. 
 
 I just wanted a plain react with typescript base to start projects from and I couldn't find one.. 
  
